@@ -59,4 +59,4 @@ Plus full-stack coursework across **Django**, **ASP.NET**, and **Flutter** - see
 ## 📫 Reach me
 
 - 💼 **LinkedIn:** [Khaizuran Amshar Mohd Tarmizi](https://www.linkedin.com/in/khaizuran-amshar-mohd-tarmizi-7b16a9356/)
-- 📧 **Email:** your.email@example.com
+- 📧 **Email:** khaizuranamshar.tarmizi@gmail.com
